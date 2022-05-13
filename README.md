@@ -1,1 +1,1 @@
-# BERT-based-sentiment-analysis
+# BERT and LSTM based-sentiment-analysis
